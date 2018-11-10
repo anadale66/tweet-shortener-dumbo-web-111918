@@ -19,7 +19,7 @@ def word_substituter(tweet)
     else
       word
     end
-    
+  end
   collect.join(" ")
 end
 
